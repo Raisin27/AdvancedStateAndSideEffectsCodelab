@@ -38,3 +38,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+<img width="189" alt="화면 캡처 2024-03-06 174324" src="https://github.com/Raisin27/AdvancedStateAndSideEffectsCodelab/assets/104148147/8af848c9-94cf-4607-ad13-9ceebab8b46e">
+<img width="181" alt="화면 캡처 2024-03-06 174235" src="https://github.com/Raisin27/AdvancedStateAndSideEffectsCodelab/assets/104148147/1a01d337-7028-4f9c-919f-13daeab6db89">
+
